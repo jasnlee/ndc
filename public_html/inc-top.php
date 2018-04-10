@@ -29,10 +29,10 @@ if(!isset($description))
                 <li><a href="before-you-start.php">Before You Start</a></li>
                 <li><a href="your-first-days.php">Your First Days</a></li>
                 <li><a href="your-first-months.php">Your First Months</a></li>
-                <li><a href="#">Your First Year</a></li>
-                <li><a href="#">Your NDC</a></li>
-                <li><a href="#">Your Benefits</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="javascript:void();">Your First Year</a></li>
+                <li><a href="javascript:void();">Your NDC</a></li>
+                <li><a href="javascript:void();">Your Benefits</a></li>
+                <li><a href="javascript:void();">Contact</a></li>
             </ul>
             
             <ul id="nav-mobile" class="side-nav">
@@ -40,10 +40,10 @@ if(!isset($description))
                 <li><a href="before-you-start.php">Before You Start</a></li>
                 <li><a href="your-first-days.php">Your First Days</a></li>
                 <li><a href="your-first-months.php">Your First Months</a></li>
-                <li><a href="#">Your First Year</a></li>
-                <li><a href="#">Your NDC</a></li>
-                <li><a href="#">Your Benefits</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="javascript:void();">Your First Year</a></li>
+                <li><a href="javascript:void();">Your NDC</a></li>
+                <li><a href="javascript:void();">Your Benefits</a></li>
+                <li><a href="javascript:void();">Contact</a></li>
             </ul>
             <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
         </div>
